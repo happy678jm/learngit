@@ -9,3 +9,5 @@ Linus用两周时间C语言写了Git，分布式版本控制系统，
 强大的分支管理，在Linux、Unix、Mac、Windows上都可以运行。
 
 所有版本控制系统只能跟踪文本文件的改动，word是二进制文件，无法追踪改动。。。
+
+工作区里有个.git，是Git的版本库，里面有叫做stage或index的暂存区，还有Git为我们自动创建的第一个分支master以及指向master的一个指针HEAD
