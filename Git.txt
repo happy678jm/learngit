@@ -12,4 +12,4 @@ Linus用两周时间C语言写了Git，分布式版本控制系统，
 
 工作区里有个.git，是Git的版本库，里面有叫做stage或index的暂存区，还有Git为我们自动创建的第一个分支master以及指向master的一个指针HEAD
 
-Git管理的是修改而不是文件
+Git管理的是修改而不是文件，更优秀
